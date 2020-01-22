@@ -34,7 +34,7 @@
   border-right: none;
 }
 
-@media (max-width: 680px) {
+@media (max-width: 768px) {
   .horizontal.nav-list.full-width {
     display: none;
   }
@@ -44,7 +44,7 @@
   }
 }
 
-@media (min-width: 681px) {
+@media (min-width: 769px) {
   .horizontal.nav-list.full-width {
     display: flex;
   }
